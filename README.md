@@ -1,4 +1,3 @@
 # source-control-lab
-bla bla bla 2
-
-bla bla bla
+This is the best project!!!
+This should be enough for now.
